@@ -12,7 +12,7 @@
 
 
 def main():
-    #A function  which is to print the initials and stylized large block letters for LBB.
+    # A function  which is to print the initials and stylized large block letters for LBB.
     print()
     print("...LBB")
     print()
